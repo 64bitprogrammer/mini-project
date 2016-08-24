@@ -1,3 +1,3 @@
 # Mini-Projects
 
-Contains Entire Projects in RAR format.
+Contains Entire Projects Source Code.
