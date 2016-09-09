@@ -1,3 +1,6 @@
 # Mini-Projects
 
-Contains Entire Projects Source Code.
+## Made Using Bootstrap + PHP + MySQL + AJAX
+
+Contains Entire Projects Source Code For The Online Telephone Directory.
+
